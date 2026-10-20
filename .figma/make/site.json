@@ -1,0 +1,10 @@
+{
+  "description": "Monitor website changes with an AI-powered tool that analyzes content updates, providing insights for students, researchers, and businesses.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
